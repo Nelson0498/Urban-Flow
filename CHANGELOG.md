@@ -37,3 +37,7 @@ Todas las modificaciones notables de este proyecto se documentarán en este arch
 - Definición de la clase `FineAnalyzer` mediante Programación Orientada a Objetos (POO).
 - Implementación de métodos para rankings (patentes/horarios), promedios y agrupaciones por ubicación.
 - Inicialización y ejecución de pruebas de métodos mediante celdas independientes.
+
+## [Día 3] - Ejercicio 05 (Autor: Manuel Lombardi)
+- Implementación de `graficar_top_patentes`: Gráfico de barras del Top 10 patentes más reincidentes.
+- Implementación de `graficar_porcentaje_horas`: Gráfico de torta con agrupamiento por hora entera.

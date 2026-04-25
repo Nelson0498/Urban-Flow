@@ -41,3 +41,9 @@ Todas las modificaciones notables de este proyecto se documentarán en este arch
 ## [Día 3] - Ejercicio 05 (Autor: Manuel Lombardi)
 - Implementación de `graficar_top_patentes`: Gráfico de barras del Top 10 patentes más reincidentes.
 - Implementación de `graficar_porcentaje_horas`: Gráfico de torta con agrupamiento por hora entera.
+
+## [Día 3] - Ejercicio 05 (Autor: Agustín Rojas)
+- Implementación de `graficar_infracciones_mes`: Gráfico de barras horizontal por meses.
+- Implementación de `graficar_excesos_hora_cero`: Gráfico de líneas para el análisis a las 00:00.
+- Implementación de `graficar_excesos_fecha_error`: Gráfico de líneas para el análisis en la fecha de error (1932-01-01).
+- Todas las visualizaciones incluyen exportación automática a `urban_flow/data/interim/plots/`.

@@ -47,3 +47,7 @@ Todas las modificaciones notables de este proyecto se documentarán en este arch
 - Implementación de `graficar_excesos_hora_cero`: Gráfico de líneas para el análisis a las 00:00.
 - Implementación de `graficar_excesos_fecha_error`: Gráfico de líneas para el análisis en la fecha de error (1932-01-01).
 - Todas las visualizaciones incluyen exportación automática a `urban_flow/data/interim/plots/`.
+
+## [Día 3] - Ejercicio 06 (Autor: Agustín Cuello)
+- Implementación de `calcular_porcentaje_errores`: Cálculo métrico de la incidencia de datos normalizados (fecha 1932-01-01 y hora 00:00).
+- Verificación final de integridad y cierre de Sprint 1.

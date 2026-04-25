@@ -17,3 +17,8 @@ Todas las modificaciones notables de este proyecto se documentarán en este arch
 - Normalización de fechas al formato 'YYYY-MM-DD' (errores a 1932-01-01).
 - Normalización de horas al formato de 24hs (errores a 00:00).
 - Limpieza inicial de ubicaciones y patentes.
+
+## [Día 3] - Ejercicio 03 (Corrección: Manuel Lombardi)
+- Optimización de la función normalizar_datos_temporales.
+- Se agregó `dayfirst=True` para corregir la advertencia de ambigüedad en fechas.
+- Se implementó `format='mixed'` para procesar horas en múltiples formatos.

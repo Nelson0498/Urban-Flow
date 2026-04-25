@@ -27,3 +27,8 @@ Todas las modificaciones notables de este proyecto se documentarán en este arch
 - Normalización de formatos en columnas de Ubicaciones y Patentes.
 - Tratamiento de Inconsistencias: Imputación y manejo de valores nulos.
 - Detección y tratamiento de Outliers en el dataset.
+
+## [Día 3] - Ejercicio 03 (Corrección: Manuel Lombardi)
+- Implementación de la función `finalizar_procesamiento`.
+- Cálculo de excesos de velocidad con margen del 5%.
+- Generación y exportación de dataset de infractores a `urban_flow/data/interim/`.

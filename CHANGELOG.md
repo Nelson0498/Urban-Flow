@@ -22,3 +22,8 @@ Todas las modificaciones notables de este proyecto se documentarán en este arch
 - Optimización de la función normalizar_datos_temporales.
 - Se agregó `dayfirst=True` para corregir la advertencia de ambigüedad en fechas.
 - Se implementó `format='mixed'` para procesar horas en múltiples formatos.
+
+## [Día 3] - Ejercicio 03 (Autor: Agustín Rojas)
+- Normalización de formatos en columnas de Ubicaciones y Patentes.
+- Tratamiento de Inconsistencias: Imputación y manejo de valores nulos.
+- Detección y tratamiento de Outliers en el dataset.

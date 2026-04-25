@@ -7,3 +7,7 @@ Todas las modificaciones notables de este proyecto se documentarán en este arch
 - Creación de la rama Sprint_1.
 - Estructuración de directorios (data/raw, data/interim, etc.).
 - Creación de README.md y CHANGELOG.md.
+
+## [Día 2] - Ejercicio 02 (Autor: Agustín Cuello)
+- Subida de notebook individual.
+- Análisis exploratorio de datos resuelto.

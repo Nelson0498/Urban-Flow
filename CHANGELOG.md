@@ -32,3 +32,8 @@ Todas las modificaciones notables de este proyecto se documentarán en este arch
 - Implementación de la función `finalizar_procesamiento`.
 - Cálculo de excesos de velocidad con margen del 5%.
 - Generación y exportación de dataset de infractores a `urban_flow/data/interim/`.
+
+## [Día 3] - Ejercicio 04 (Autor: Nelson Castillo)
+- Definición de la clase `FineAnalyzer` mediante Programación Orientada a Objetos (POO).
+- Implementación de métodos para rankings (patentes/horarios), promedios y agrupaciones por ubicación.
+- Inicialización y ejecución de pruebas de métodos mediante celdas independientes.
